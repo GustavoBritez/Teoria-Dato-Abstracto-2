@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1670171208 source:c:\users\mecha\documents\c\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"vuelo.h"
+
+1670172370 c:\users\mecha\documents\c\2\vuelo.h
+
+1670172112 source:c:\users\mecha\documents\c\2\vuelo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"vuelo.h"
+
